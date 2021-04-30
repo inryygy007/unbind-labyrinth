@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "chest",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0333333333333334,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a4a06e11-9400-4bd3-893c-a26cbfb33a3b"
+            }
+          },
+          {
+            "frame": 0.36666666666666664,
+            "value": {
+              "__uuid__": "5cd16767-d2b3-4d9d-aebf-eddc212999f2"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "79d5d8b0-64a5-4aad-8f97-90140f87097b"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "13980b8b-2049-485e-8f6e-86afea2601fc"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

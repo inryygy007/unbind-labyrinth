@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "key_gold",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.2,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 1.1,
+            "value": {
+              "__uuid__": "87da4bc3-bb71-43f4-8f49-8de258c4e126"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
